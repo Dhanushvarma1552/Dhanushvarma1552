@@ -67,11 +67,6 @@ enforcement, framework maintenance, and Claude agent/skill development.
 Software Engineer Intern → Software Engineer. Built LabVIEW/CANoe test automation workflows and a server-side
 data validation tool; automated BMS Test HIL project workflows.
 
-## GitHub Stats
-
-![Dhanushvarma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanushvarma1552&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushvarma1552&layout=compact&theme=default)
-
 ## Connect
 
 - LinkedIn: [linkedin.com/in/dhanushvarma-a-v](https://linkedin.com/in/dhanushvarma-a-v)
