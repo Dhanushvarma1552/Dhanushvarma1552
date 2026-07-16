@@ -1,21 +1,78 @@
-# 💫 About Me:
-🚀 Automation Test Engineer | 💻 Tech Enthusiast | 🌱 Fast Learner<br>Hi there! I’m Dhanushvarma A V, an Automation Test Engineer at Maxeye Technologies since January 2024. With a strong foundation in Java, JavaScript, LabVIEW, Python, ReactJS, HTML, CSS, Express.js, SQL, and REST API, I thrive on solving complex problems and building efficient, scalable solutions.<br><br>💡 What drives me?<br>I’m passionate about programming and love diving into new technologies. Whether it’s automating workflows, developing dynamic web applications, or exploring cutting-edge tools, I’m always ready to learn and adapt. My ability to quickly grasp new concepts allows me to stay ahead in the ever-evolving tech landscape.<br><br>🌟 Why work with me?<br><br>Versatile Skill Set: Proficient in multiple programming languages, frameworks, and tools.<br><br>Problem Solver: Strong understanding of Data Structures and Algorithms (DSA) to tackle complex challenges.<br><br>Backend Expertise: Experience with Express.js and REST API development for robust server-side solutions.<br><br>Database Knowledge: Skilled in SQL for efficient data management and querying.<br><br>Fast Learner: I embrace challenges and master new tools with ease.<br><br>Team Player: Collaborative, communicative, and always eager to contribute.<br><br>🔧 Tech Stack:<br>Java | JavaScript | Python | LabVIEW | ReactJS | HTML | CSS | Express.js | SQL | REST API | Data Structures & Algorithms<br><br>Let’s connect and create something amazing! Feel free to reach out for collaborations, projects, or just a tech chat.
+# Hi, I'm Dhanushvarma A V
 
+**Software Engineer** based in Chennai, India
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhanushvarma-a-v-52a39224b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanushvarma515@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhanushvarma1552&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dhanushvarma1552&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushvarma1552&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhanushvarma1552&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushvarma-a-v-52a39224b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhanushvarma515@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dhanushvarma1552&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a Software Engineer working on production JavaScript/Ember.js applications — currently leading an Ember-to-Glimmer
+migration, building end-to-end test automation with Playwright, and maintaining code quality with ESLint. Alongside
+core framework work (upgrades, bug fixes, feature delivery), I'm building AI agents and custom skills on Anthropic's
+Claude platform to automate internal engineering workflows.
+
+Before moving into software, I worked as a test automation engineer building LabVIEW/CANoe-based test workflows,
+which is where my automation-first mindset comes from.
+
+## What I'm Doing Right Now
+
+- Migrating legacy Ember components to Glimmer
+- Building and maintaining Playwright E2E suites
+- Designing custom Claude agents and skills for internal automation
+- Picking back up Node.js, Express.js, and React on the side
+
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=flat&logo=emberdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Testing & Quality**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Cloud & Administration**
+
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoft365&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+## Experience
+
+**Adminware Software Private Limited** — Chennai · *Apr 2025 – Present*
+Software Engineer Intern → Software Engineer. Ember-to-Glimmer migration, Playwright test automation, ESLint
+enforcement, framework maintenance, and Claude agent/skill development.
+
+**Maxeye Technologies Private Limited** — Bangalore · *Feb 2024 – Apr 2025*
+Software Engineer Intern → Software Engineer. Built LabVIEW/CANoe test automation workflows and a server-side
+data validation tool; automated BMS Test HIL project workflows.
+
+## GitHub Stats
+
+![Dhanushvarma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanushvarma1552&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushvarma1552&layout=compact&theme=default)
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/dhanushvarma-a-v](https://linkedin.com/in/dhanushvarma-a-v)
+- Email: dhanushvarma515@gmail.com
